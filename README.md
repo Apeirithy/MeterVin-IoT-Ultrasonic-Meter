@@ -3,7 +3,7 @@
 An ESP32-based contactless length measurement device that utilizes an HC-SR04 ultrasonic sensor. This physical computing project solves the limitations of conventional measuring tools by providing stable, non-contact measurements and automatically transmitting the results to a user's smartphone via Wi-Fi and WhatsApp.
 
 <div align="center">
-    <img src="./Assets/20241221_235642.Jng" alt="MeterVin Physical Product" width="40%">
+    <img src="./Assets/20241221_235642.jpg" alt="MeterVin Physical Product" width="40%">
 </div>
 
 ## Hardware Architecture & Components
